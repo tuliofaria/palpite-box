@@ -1,6 +1,6 @@
 # PalpiteBox - Semana Fullstack Master
 
-[![HitCount](https://hits.dwyl.com/tuliofaria/tuliofaria/tuliofariadev.svg)](https://hits.dwyl.com/tuliofaria/tuliofaria/tuliofariadev)
+[![HitCount](https://hits.dwyl.com/tuliofaria/tuliofaria/palpite-box.svg)](https://hits.dwyl.com/tuliofaria/tuliofaria/palpite-box)
 
 Este projeto foi construído durante a Semana Fullstack Master do [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada em: https://palpite-box.tuliofaria.dev/.
 
